@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sivashankar Murali
-- 👀 I’m interested in React Native mobile applications
-- 💞️ I’m looking to collaborate on the React community 
+- 🚀 Senior Software Engineer | React Native Specialist
+- 🔥 4+ years crafting scalable and high-performance mobile apps
+- 🛠️ Skilled in Firebase, AWS, CI/CD, and UI/UX best practices
 - 📫 Reach me at sivasha787@gmail.com
 
 <!---
