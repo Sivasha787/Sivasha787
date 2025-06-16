@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sivashankar
-- 👀 I’m interested in Web development & Native mobile applications
+- 👀 I’m interested in React Native mobile applications
 - 🌱 I’m currently learning React Native  
 - 💞️ I’m looking to collaborate on the React community 
 - 📫 Reach me at sivasha787@gmail.com
