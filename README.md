@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Sivashankar
+- 👋 Hi, I’m Sivashankar Murali
 - 👀 I’m interested in React Native mobile applications
-- 🌱 I’m currently learning React Native  
 - 💞️ I’m looking to collaborate on the React community 
 - 📫 Reach me at sivasha787@gmail.com
 
